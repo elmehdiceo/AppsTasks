@@ -1,0 +1,9 @@
+{
+  "firebase": "apps-tasks",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
